@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="json-1.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Need/2211341 - CIS Project/Backend/lib/json-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Need/2211341 - CIS Project/Backend/lib/mysql-connector-java-8.0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
